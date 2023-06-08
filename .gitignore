@@ -1,0 +1,4 @@
+docker/logs/*
+!docker/logs/.gitkeep
+docker/.env
+config.php
