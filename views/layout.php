@@ -50,9 +50,9 @@ function e($dirty) {
 <body>
     <div id="main">
         <?php if(USE_WIKITTEN_LOGO === true): ?>
-            <a href="https://github.com/niukor/" id="logo" target="_blank" class="hidden-phone">
-                <img src="static/img/logo.png" alt="">
-                <div class="bubble">Welcome to go my github!</div>
+            <a href="http://tkfile.com/message/" id="logo" target="_blank" class="hidden-phone">
+                <img src="static/img/logo.png" alt="点我，给我留言" title="点我，给我留言" >
+<!--                <div class="bubble">给我留言!</div>-->
             </a>
         <?php endif; ?>
         <div class="inner">
